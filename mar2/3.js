@@ -2,7 +2,7 @@
     'use strict';
 
     let user = {
-        name: 'Jhon',
+        name: 'John',
         age: 23,
         hello() {
             alert(`Hello, my name is ${this.name}. I'm ${this.age} years old.`)
