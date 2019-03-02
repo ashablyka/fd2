@@ -1,0 +1,22 @@
+(function () {
+    'use strict';
+
+    let user = {
+        name: 'Jhon',
+        age: 23,
+        hello() {
+            alert(`Hello, my name is ${this.name}. I'm ${this.age} years old.`)
+        }
+    };
+
+    //user.hello();
+    let hello = bind (user.hello, user);
+    hello();
+
+})();
+
+function bind(fn, context) {
+    return function (...args) {
+        return fn.apply(context, args)
+    }
+}
