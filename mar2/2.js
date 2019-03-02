@@ -3,8 +3,8 @@
 
     let user = {
         name: 'Jhon',
-            age: 23,
-            hello() {
+        age: 23,
+        hello() {
             alert(`Hello, my name is ${this.name}. I'm ${this.age} years old.`)
         }
     };

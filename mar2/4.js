@@ -10,7 +10,7 @@
     };
 
     //user.hello();
-    let hello = bind (user.hello, user);
+    let hello = bind(user.hello, user);
     hello();
 
 })();
