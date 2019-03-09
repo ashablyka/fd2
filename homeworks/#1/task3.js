@@ -1,5 +1,7 @@
 (function () {
-    function stringToHTML (str) {
+    'use strict';
+
+    function stringToHTML(str) {
         let arr = str.split('\n');
         arr[0] = `<h1>${arr[0]}</h1>`;
         for (let i = 1; i < arr.length; i++) {
