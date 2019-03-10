@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    function withoutRepeat(arr) {
+    const withoutRepeat = arr => {
         return arr.filter((value) => {
             let repeats = 0;
             for (let i = 0; i < arr.length; i++) {
@@ -11,7 +11,7 @@
             }
             return repeats === 1;
         });
-    }
+    };
 
     console.log(withoutRepeat([2, 2, -4, 3, 15, 2, 3, 0]));
 })();
