@@ -1,6 +1,10 @@
-function f() {
+(function () {
+    'use strict';
+
     let s = 0;
+
     setInterval(() => {
         console.log(++s)
-    }, 100);
-}
+    }, 1000);
+
+}) ();

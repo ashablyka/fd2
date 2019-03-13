@@ -1,11 +1,13 @@
 (function () {
     'use strict';
+
     const SYMBOLS = 'abcdefghijklmnopqrstuvwxyz';
-    const COMB = 'abcdefghijklmnopqrstuvwxyz';
+    const COMBINATIONS = 'abcdefghijklmnopqrstuvwxyz0123456789';
     let stage = 'numbers';
+
     render(() => {
         document.body.textContent = getBodyContent();
-    });
+    }); // Эта ф-ция постоянно вызывается
 
     function getBodyContent() {
         switch (stage) {
@@ -33,7 +35,7 @@
     function combinations() {
         let length = 30, symbols = new Array(length);
         for (let i = 0; i < length; i++) {
-            symbols[i] = COMB.charAt(getRandomNumber(0, SYMBOLS.length - 1));
+            symbols[i] = COMBINATIONS.charAt(getRandomNumber(0, SYMBOLS.length - 1));
         }
         return symbols.join('');
     }
@@ -50,6 +52,8 @@
             render(actions);
         });
     }
-})
 
-();
+    setTimeout(() => stage = 'strings', 10000);
+    setTimeout(() => stage = 'combinations', 20000);
+
+})();

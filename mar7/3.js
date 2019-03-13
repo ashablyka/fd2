@@ -1,12 +1,21 @@
+(function () {
+    'use strict';
+
 
     let s = 0;
+
     render(() => {
-        document.body.textContent = (+s).toString();
+        document.body.textContent = (++s).toString();
     });
-    function render (actions) {
-        requestAnimationFrame( () => {
+
+    /**
+     * @param {Function} actions
+     */
+    function render(actions) {
+        requestAnimationFrame(() => {
             actions();
             render(actions);
         });
     }
 
+})();

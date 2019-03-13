@@ -14,4 +14,5 @@
     };
 
     console.log(withoutRepeat([2, 2, -4, 3, 15, 2, 3, 0]));
+
 })();

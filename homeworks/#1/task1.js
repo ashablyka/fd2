@@ -11,6 +11,7 @@
     };
 
     console.log(arrayToPoints([{x: 12, y: 13}, {x: 56, y: 45}, {x: 25, y: 18}]));
+
 })();
 
 

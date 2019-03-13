@@ -1,4 +1,6 @@
-(function f() {
+(function () {
+    'use strict';
+
     console.log(1);
     setTimeout(() => {
         console.log(2)
@@ -8,18 +10,21 @@
 
     function foo() {
         let s = 0;
-        for (let i = 0; i < 1000000; i++) {
+        for (let i = 0; i < 10000000; i++) {
             s += i;
         }
         return s;
     }
 })();
+
 // 1
 // 499999500000
 // 3
 // 2
 
-/*(function f() {
+/*(function () {
+    'use strict';
+
     console.log(1);
     setTimeout(() => {
         console.log(2)
@@ -32,4 +37,7 @@
 
         }
     }
-})(); // 1*/
+})();*/
+
+// 1
+// foo() выполняется вечно. console.log(2) и console.log(3) не выполняются.

@@ -11,5 +11,6 @@
     };
 
     console.log(stringToHTML('Weather Forecast\nBrest 10&deg;C\nVitebsk 1&deg;C\nHave a good day!'));
+
 })();
 

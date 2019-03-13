@@ -1,0 +1,28 @@
+#test {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #000;
+    background-color: blue;
+}
+
+#test.active {
+    background-color: red;
+}
+
+#colors {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+#colors .color {
+    background-color: currentColor;
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: flex;
+}
+
+#colors .color + .color {
+    margin-left: 10px;
+}
