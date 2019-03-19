@@ -25,7 +25,7 @@
         testEl.style.removeProperty('background-color');
     });
 
-    function createColorSamples() {
+    /*function createColorSamples() {
         let fragment = document.createDocumentFragment();
         for (let color of COLORS) {
             let el = document.createElement('div');
@@ -34,7 +34,20 @@
             el.dataset.color = color;
             fragment.append(el);
         }
+
         colorsEl.append(fragment);
+    }*/
+
+    function createColorSamples() {
+        colorsEl.append(COLORS.reduce((fragment, color) => {
+            let el = document.createElement('div');
+            el.classList.add('color');
+            el.style.backgroundColor = color;
+            el.dataset.color = color;
+            fragment.append(el);
+            return fragment;
+        }, document.createDocumentFragment()));
     }
 
 })();
+

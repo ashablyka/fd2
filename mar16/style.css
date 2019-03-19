@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background-color: #444;
+}
+
+.gallery {
+    margin: 40px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 254px);
+    grid-gap: 20px;
+}
+
+.gallery figure {
+    border: 2px solid #fff;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.gallery figure:hover {
+    border-color: orange;
+}
+
+.preview {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.preview img {
+    max-height: 90%;
+    max-width: 90%;
+}
+
+.preview .counter {
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 100px;
+    margin-left: -50px;
+    display: block;
+    text-align: center;
+}
