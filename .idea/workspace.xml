@@ -2,75 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="434de7c8-469c-4328-9fd8-401b19296c61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homeworks/2/solution/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/2/solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/2/solution/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mar23/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/3/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb28/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb28/.idea/feb28.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb28/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb28/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb28/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feb28/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#1/.idea/#1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#1/solutions.js" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/1/solutions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#1/task1.js" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/1/task1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#1/task2.js" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/1/task2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#1/task3.js" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/1/task3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/2/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/#2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/.idea/homeworks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeworks/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/.idea/mar2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar2/5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar7/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar7/.idea/mar7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar7/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar7/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar7/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar7/2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar7/3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar7/4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar7/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/.idea/mar9.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mar9/3.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -82,30 +16,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homeworks/3/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mar23/index.html">
+        <entry file="file://$PROJECT_DIR$/homeworks/3/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mar23/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mar23/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+            <state relative-caret-position="-395">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -115,11 +40,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fillTags</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -146,12 +76,18 @@
         <option value="$PROJECT_DIR$/mar23/index.html" />
         <option value="$PROJECT_DIR$/mar23/style.css" />
         <option value="$PROJECT_DIR$/mar23/app.js" />
+        <option value="$PROJECT_DIR$/1/1.js" />
+        <option value="$PROJECT_DIR$/homeworks/3/index.html" />
+        <option value="$PROJECT_DIR$/1/1.html" />
+        <option value="$PROJECT_DIR$/1/2.js" />
+        <option value="$PROJECT_DIR$/homeworks/3/app.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="width" value="1053" />
+    <option name="x" value="823" />
+    <option name="y" value="2" />
+    <option name="width" value="1098" />
     <option name="height" value="1160" />
   </component>
   <component name="ProjectView">
@@ -159,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,10 +102,22 @@
               <item name="fd2" type="b2602c69:ProjectViewProjectNode" />
               <item name="fd2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fd2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fd2" type="462c0819:PsiDirectoryNode" />
+              <item name="homeworks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fd2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fd2" type="462c0819:PsiDirectoryNode" />
+              <item name="homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,17 +170,21 @@
       <workItem from="1553447134426" duration="5308000" />
       <workItem from="1553569162327" duration="1001000" />
       <workItem from="1553570373436" duration="10922000" />
-      <workItem from="1553649227540" duration="11226000" />
+      <workItem from="1553649227540" duration="13135000" />
+      <workItem from="1553724862923" duration="14822000" />
+      <workItem from="1553757211959" duration="18480000" />
+      <workItem from="1553884148288" duration="1994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102736000" />
+    <option name="totallyTimeSpent" value="139941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="0" width="1053" height="1160" extended-state="0" />
+    <frame x="823" y="2" width="1098" height="1160" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36453202" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1490566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -245,60 +196,36 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5363924" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.53501946" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24147727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5354406" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/homeworks/1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mar16/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mar16/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homeworks/#2/comma.html" />
-    <entry file="file://$PROJECT_DIR$/mar14/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homeworks/1/task3.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homeworks/1/task2.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mar14/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mar16/app2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/homeworks/1/task1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -317,20 +244,6 @@
     <entry file="file://$PROJECT_DIR$/mar7/3.js" />
     <entry file="file://$PROJECT_DIR$/mar7/2.js" />
     <entry file="file://$PROJECT_DIR$/mar7/1.js" />
-    <entry file="file://$PROJECT_DIR$/homeworks/2/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-604">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mar21/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/homeworks/2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -345,41 +258,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homeworks/1/solutions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mar21/app2.js">
+    <entry file="file://$PROJECT_DIR$/07 - 21 мар - Прототипы и классы/app3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mar21/app3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mar21/index.html">
+    <entry file="file://$PROJECT_DIR$/07 - 21 мар - Прототипы и классы/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/111/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/111/index.html" />
     <entry file="file://$PROJECT_DIR$/homeworks/2/solution/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -394,6 +287,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mar23/less/less8.css" />
+    <entry file="file://$PROJECT_DIR$/mar23/less/less8.html" />
+    <entry file="file://$PROJECT_DIR$/111/app.js" />
+    <entry file="file://$PROJECT_DIR$/mar23/less/less8.js" />
+    <entry file="file://$PROJECT_DIR$/08 - 23 мар - Классы/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 - 28 фев - Циклы/1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 - 28 фев - Циклы/2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08 - 23 мар - Классы/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - 2 мар - Функции/1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - 2 мар - Функции/2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - 2 мар - Функции/3.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - 2 мар - Функции/4.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 - 2 мар - Функции/5.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 - 7 мар - Асинхронность/1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 - 7 мар - Асинхронность/3.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 - 7 мар - Асинхронность/4.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 - 7 мар - Асинхронность/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 - 9 мар - Обработчики событий/1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03 - 7 мар - Асинхронность/2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06 - 16 мар - Фотогалерея/app2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07 - 21 мар - Прототипы и классы/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07 - 21 мар - Прототипы и классы/app2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homeworks/1/solutions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/homeworks/2/solution/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -401,52 +379,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mar23/less/less8.css">
+    <entry file="file://$PROJECT_DIR$/1/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05 - 14 мар - Методы массивов/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="21" column="27" lean-forward="true" selection-end-line="48" />
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mar23/less/less8.html">
+    <entry file="file://$PROJECT_DIR$/homeworks/2/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="575">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mar23/style.css">
+    <entry file="file://$PROJECT_DIR$/08 - 23 мар - Классы/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="25">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/111/app.js">
+    <entry file="file://$PROJECT_DIR$/1/1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="-645">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mar23/app.js">
+    <entry file="file://$PROJECT_DIR$/1/2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+        <state relative-caret-position="100">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mar23/less/less8.js">
+    <entry file="file://$PROJECT_DIR$/homeworks/3/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="250">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mar23/index.html">
+    <entry file="file://$PROJECT_DIR$/homeworks/3/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="-395">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
